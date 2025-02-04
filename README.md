@@ -7,6 +7,7 @@ Step 2: Added Typescript types support
 https://www.nativewind.dev/getting-started/typescript
 
 Step 3: change the content property of the tailwind.config.js
+<code>
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   // NOTE: Update this to include the paths to all of your component files.
@@ -17,3 +18,5 @@ module.exports = {
   },
   plugins: [],
 };
+
+</code>
