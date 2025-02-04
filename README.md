@@ -20,3 +20,7 @@ module.exports = {
 };
 
 </code>
+
+<b>Output:</b>
+
+<img width="343" alt="Screenshot 2025-02-04 at 8 54 09 PM" src="https://github.com/user-attachments/assets/0ca65215-f747-4eaa-a072-6b7111506c45" />
